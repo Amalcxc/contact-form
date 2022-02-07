@@ -1,6 +1,6 @@
 # contact-form
 
-For the third milestone of your portfolio website, you will:
+Portfolio: add a contact form and finish the mobile version
 
 
 ## Made with
