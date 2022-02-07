@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(80, 92, 186);
+}
+h1 {
+  font-family: sans-serif;
+}
+p {
+  font-family: serif;
+  font-size: x-large;
+}
+.form {
+  text-align: center;
+  color: white;
+}
+ .input {
+   width: 90%;
+   height: 40px;
+   border-radius: 10px;
+   border: none;
+ }
+
+ #message {
+   height: 168px;
+ }
+
+ #button {
+  height: 47px;
+  width: 147px;
+  border-radius: 8%;
+  color: rgb(80, 92, 186);
+  border: none;
+ }
+ 
