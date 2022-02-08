@@ -1,7 +1,6 @@
-# contact-form
+# Portfolio
 
-Portfolio: add a contact form and finish the mobile version
-
+In this project, I precisely replicated one of the portfolio templates Microverse provided. in order to use it for job searching. it’s the easiest way of showing what I am truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what I can bring to their teams.
 
 ## Made with
 
